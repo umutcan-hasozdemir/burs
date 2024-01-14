@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "burs", "burs\burs.csproj", "{BBF0B9AC-A6A7-4CBF-8A42-63CEBE6D855E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF0B9AC-A6A7-4CBF-8A42-63CEBE6D855E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF0B9AC-A6A7-4CBF-8A42-63CEBE6D855E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF0B9AC-A6A7-4CBF-8A42-63CEBE6D855E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF0B9AC-A6A7-4CBF-8A42-63CEBE6D855E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EFCDC24-85D8-4E7C-943E-DFA2D60155A2}
+	EndGlobalSection
+EndGlobal
